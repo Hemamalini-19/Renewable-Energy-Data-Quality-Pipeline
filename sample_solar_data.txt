@@ -1,0 +1,4 @@
+timestamp,sensor_id,energy_kwh
+2026-01-13 10:00,SOLAR_01,15.5
+2026-01-13 10:05,SOLAR_01,-99.0
+2026-01-13 10:10,SOLAR_01,16.2
